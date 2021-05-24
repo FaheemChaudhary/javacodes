@@ -1,5 +1,5 @@
 package newGithub;
-
+//Program to add initial numbers in fibnoci series
 public class SumOfFibnoci {
 	static int calculateSum(int n)
     {
